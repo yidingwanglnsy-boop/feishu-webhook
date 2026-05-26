@@ -1,0 +1,5 @@
+.env
+sessions.json
+__pycache__/
+ngrok
+/tmp/
